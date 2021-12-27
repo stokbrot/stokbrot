@@ -1,9 +1,10 @@
 <h1 align="center">👋 Hello my fellow Fortnite enjoyer!</h1>
 <h3 align="center">"I could also steal your project" -stokbrot</h3>
+<!--Cool that u decided to join me-->
+
 
 <pre><span class="pl-c">import math</span>
 <span class="pl-c">from copy import *</span>
-
 
 <span class="pl-k">class</span> <span class="pl-v">Profile</span>:
 
