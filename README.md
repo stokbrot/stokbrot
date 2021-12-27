@@ -1,9 +1,23 @@
 <h1 align="center">👋 Hello my fellow Fortnite enjoyer!</h1>
 <h3 align="center">I am a passionate Copy and Paster</h3>
 
-<p align="center">
-  <img src="https://i.imgur.com/YLko7yD.png" />
-</p>
+<pre><span class="pl-c">import math</span>
+<span class="pl-c">from copy import *</span>
+
+
+<span class="pl-k">class</span> <span class="pl-v">Profile</span>:
+
+    <span class="pl-k">def</span> <span class="pl-en">__init__</span>(<span class="pl-s1">self</span>):
+        <span class="pl-s1">self</span>.<span class="pl-s1">name</span> <span class="pl-c1">=</span> <span class="pl-s">"stokbrot"</span>
+        <span class="pl-s1">self</span>.<span class="pl-s1">role</span> <span class="pl-c1">=</span> <span class="pl-s">"Copy and paster"</span>
+        <span class="pl-s1">self</span>.<span class="pl-s1">language_spoken</span> <span class="pl-c1">=</span> [<span class="pl-s">"DEUTSCHLAND"</span>, <span class="pl-s">"en_US"</span>]
+
+    <span class="pl-k">def</span> <span class="pl-en">say_hi</span>(<span class="pl-s1">self</span>):
+        <span class="pl-en">print</span>(<span class="pl-s">"Thanks for dropping by, hope you find some of my Stolen work interesting."</span>)
+
+
+<span class="pl-s1">me</span> <span class="pl-c1">=</span> <span class="pl-v">SoftwareEngineer</span>()
+<span class="pl-s1">me</span>.<span class="pl-en">say_hi</span>()</pre>
 
 - 📫 Contact me on Discord: **stokbrot#5259**
 
@@ -20,4 +34,3 @@
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stokbrot&show_icons=true&locale=en" alt="stokbrot" /></p>
-
