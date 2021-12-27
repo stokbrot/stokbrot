@@ -13,7 +13,7 @@
         <span class="pl-s1">self</span>.<span class="pl-s1">language_spoken</span> <span class="pl-c1">=</span> [<span class="pl-s">"DEUTSCHLAND"</span>, <span class="pl-s">"en_US"</span>]
 
     <span class="pl-k">def</span> <span class="pl-en">say_hi</span>(<span class="pl-s1">self</span>):
-        <span class="pl-en">print</span>(<span class="pl-s">"Thanks for dropping by, hope you find some of my Stolen work interesting."</span>)
+        <span class="pl-en">print</span>(<span class="pl-s">"Thanks for dropping by, hope you find some of my defenitively not stolen work interesting."</span>)
 
 
 <span class="pl-s1">me</span> <span class="pl-c1">=</span> <span class="pl-v">SoftwareEngineer</span>()
