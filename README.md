@@ -19,9 +19,9 @@
 <span class="pl-s1">me</span> <span class="pl-c1">=</span> <span class="pl-v">SoftwareEngineer</span>()
 <span class="pl-s1">me</span>.<span class="pl-en">say_hi</span>()</pre>
 
-- 📫 Contact me on Discord: **stokbrot#5259**
+- 📫 Contact me on Discord : **stokbrot#5259**
 
-- ⚡ Fun fact: **I think i am funny**
+- ⚡ Fun fact : **I think i am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
