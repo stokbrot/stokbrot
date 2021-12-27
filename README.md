@@ -1,5 +1,5 @@
-<h1 align="center">👋Hi my fellow Fortnite enjoyer</h1>
-<h3 align="center">A passionate Copy and Paster</h3>
+<h1 align="center">👋 Hello my fellow Fortnite enjoyer!</h1>
+<h3 align="center">I am a passionate Copy and Paster</h3>
 
 <p align="center">
   <img src="https://i.imgur.com/YLko7yD.png" />
