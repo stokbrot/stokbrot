@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello my fellow Fortnite enjoyer!</h1>
-<h3 align="center">I am a passionate Copy and Paster</h3>
+<h3 align="center">"I could also steal your project" -stokbrot</h3>
 
 <pre><span class="pl-c">import math</span>
 <span class="pl-c">from copy import *</span>
