@@ -1,11 +1,11 @@
 <h1 align="center">👋Hi my fellow Fortnite enjoyer</h1>
 <h3 align="center">A passionate Copy and Paster</h3>
 
-https://studio.youtube.com/channel/UCOpaySHoXGvlC-Sf7m6nezw/editing/images
+[<img src='https://studio.youtube.com/channel/UCOpaySHoXGvlC-Sf7m6nezw/editing/images' alt='youtube' height='40'>](https://studio.youtube.com/channel/UCOpaySHoXGvlC-Sf7m6nezw/editing/images)  
 
-- 📫 Contact me on Discord **stokbrot#5259**
+- 📫 Contact me on Discord: **stokbrot#5259**
 
-- ⚡ Fun fact **I think i am funny**
+- ⚡ Fun fact: **I think i am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
