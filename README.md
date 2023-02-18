@@ -22,7 +22,7 @@
 
 - 📫 Contact me on Discord : **stokbrot#5259**
 
-- ⚡ Fun fact : **I think i am funny**
+- ⚡ Fun fact : **ur gai**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
