@@ -17,7 +17,7 @@
         <span class="pl-en">print</span>(<span class="pl-s">"Thanks for dropping by, hope you find some of my defenitively not stolen work interesting."</span>)
 
 
-<span class="pl-s1">me</span> <span class="pl-c1">=</span> <span class="pl-v">SoftwareEngineer</span>()
+<span class="pl-s1">me</span> <span class="pl-c1">=</span> <span class="pl-v">ElectricalEngineer</span>()
 <span class="pl-s1">me</span>.<span class="pl-en">say_hi</span>()</pre>
 
 - 📫 Contact me on Discord : **stokbrot**
